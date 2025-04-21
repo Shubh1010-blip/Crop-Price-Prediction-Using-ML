@@ -91,7 +91,7 @@ Maharashtra, Pune, Pune Market, Wheat, Common, 2024-01-15, 2200, 120, 28, 75, 65
 
 Clone the repository and run the application:
 
-    git clone https://github.com/PiyushChauhan-web/Crop-Price-Prediction.git
+    git clone https://github.com/Shubh1010-blip/Crop-Price-Prediction.git
     cd Crop-Price-Prediction
 
 Create and activate a virtual environment:
